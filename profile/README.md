@@ -1,3 +1,26 @@
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://docs.tryanchora.com/images/anchora-wordmark-dark.svg"
+    />
+    <img
+      src="https://docs.tryanchora.com/images/anchora-wordmark-light.svg"
+      alt="Anchora"
+      width="220"
+    />
+  </picture>
+
+  <p><strong>Your study-abroad journey, under control.</strong></p>
+
+  <p>
+    <a href="https://tryanchora.com">Website</a> ·
+    <a href="https://docs.tryanchora.com">Help Center</a> ·
+    <a href="https://tryanchora.com/#join">Join the Waitlist</a>
+  </p>
+</div>
+
 # Anchora
 
 **Your study-abroad journey, under control.**
