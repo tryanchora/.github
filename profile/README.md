@@ -21,10 +21,6 @@
   </p>
 </div>
 
-# Anchora
-
-**Your study-abroad journey, under control.**
-
 Studying abroad should be exciting, not overwhelming.
 
 Anchora is an **AI-native study-abroad platform** built for students in India who want to pursue higher education in Germany independently.
