@@ -78,3 +78,4 @@ Have an idea, feedback, or just want to talk about what we're building? We'd lov
 ---
 
 *Built with care, for students building their future.*
+- [**design-system**](https://github.com/tryanchora/design-system): the spec, Tailwind v4 tokens and React components behind Anchora's interface.
