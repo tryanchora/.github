@@ -66,6 +66,7 @@ Currently in early pilot, with access opening through our waitlist.
 | Repository | What's inside |
 |---|---|
 | [docs](https://github.com/tryanchora/docs) | The source for our public help center, including guides and troubleshooting. |
+| [design-system](https://github.com/tryanchora/design-system) | Our design spec, Tailwind v4 tokens and React components. |
 
 Our core product is private for now. We'll share more as we build.
 
@@ -78,4 +79,3 @@ Have an idea, feedback, or just want to talk about what we're building? We'd lov
 ---
 
 *Built with care, for students building their future.*
-- [**design-system**](https://github.com/tryanchora/design-system): the spec, Tailwind v4 tokens and React components behind Anchora's interface.
