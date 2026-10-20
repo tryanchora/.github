@@ -25,38 +25,60 @@
 
 **Your study-abroad journey, under control.**
 
-Studying abroad is exciting. Figuring out how to get there? Not so much.
+Studying abroad should be exciting, not overwhelming.
 
-Anchora is a study-abroad planner for students in India who want to apply to universities in Germany independently, without relying on a consultancy.
+Anchora is an **AI-native study-abroad platform** built for students in India who want to pursue higher education in Germany independently.
 
-We bring the scattered pieces of the process together — university requirements, application timelines, documents, and everything in between — so you always know where you stand and what comes next.
+Instead of juggling university websites, spreadsheets, deadlines, documents, and endless advice, Anchora brings everything together into one intelligent, personalized experience.
 
-### What we're building
+And at the heart of it all is **Atlas**, your AI companion.
 
-- **A journey that makes sense.** A personalized roadmap based on your degree and intake, with clear stages, tasks, and next steps.
-- **Documents, organized.** Keep important documents private, accessible, and versioned in one place.
-- **Meet Atlas.** An optional AI guide that helps you understand your journey, find answers grounded in official sources, and make informed decisions. You're always in control.
+### Meet Atlas
+
+Atlas isn't just a chatbot. It's the intelligence behind your entire study-abroad journey.
+
+Built to understand your profile, goals, preferences, and progress, Atlas helps you navigate the process from your first university search to your final preparations.
+
+- **Knows your journey.** Understands your goals, target universities, deadlines, and where you currently stand.
+- **Grounded in real information.** Helps you find answers backed by verified university requirements and official sources.
+- **Thinks ahead.** Identifies upcoming tasks, potential blockers, and what deserves your attention next.
+- **Turns conversations into action.** Helps you plan, organize, and update your journey rather than just answering questions.
+- **Keeps you in control.** Suggests actions and changes for your approval, so you're always the one making the decisions.
+
+### More than a conversation
+
+AI is at the center, but Anchora gives it the tools and context to be genuinely useful.
+
+- **Personalized journeys** — structured roadmaps that adapt to your goals, intake, and progress.
+- **University discovery** — explore programs and understand requirements using verified information.
+- **Application planning** — track tasks, deadlines, milestones, and blockers.
+- **Document management** — securely organize important documents and their versions.
+- **A connected experience** — your plans, documents, and conversations working together.
+
+One platform. One journey. A companion that understands both.
 
 ### Where we are
 
-We're currently in our early pilot, building alongside our first students and improving Anchora based on real feedback.
+We're building Anchora alongside our first students, learning from real experiences, and improving the platform as we go.
 
-Interested in trying it? [Join the waitlist](https://tryanchora.com/#join).
+Currently in early pilot, with access opening through our waitlist.
+
+**[Join the waitlist →](https://tryanchora.com/#join)**
 
 ### Our public repositories
 
 | Repository | What's inside |
 |---|---|
-| [docs](https://github.com/tryanchora/docs) | Our public help center, including guides, FAQs, and troubleshooting. |
+| [docs](https://github.com/tryanchora/docs) | The source for our public help center, including guides and troubleshooting. |
 
-We're keeping our core product private for now, but this is where you'll find what we share with the community.
+Our core product is private for now. We'll share more as we build.
 
-### Get in touch
+### Say hello
 
-Building something interesting? Have feedback, questions, or just want to say hello? We'd love to hear from you.
+Have an idea, feedback, or just want to talk about what we're building? We'd love to hear from you.
 
 [Website](https://tryanchora.com) · [Help Center](https://docs.tryanchora.com) · [Email](mailto:hello@tryanchora.com)
 
 ---
 
-*Made with care for students figuring out their next chapter.*
+*Built with care, for students building their future.*
