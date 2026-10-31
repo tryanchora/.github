@@ -1,4 +1,3 @@
-
 <div align="center">
   <picture>
     <source
@@ -12,7 +11,7 @@
     />
   </picture>
 
-  <p><strong>Your study-abroad journey, under control.</strong></p>
+  <p><strong>Big plans. A clearer way to get there.</strong></p>
 
   <p>
     <a href="https://tryanchora.com">Website</a> ·
@@ -21,43 +20,39 @@
   </p>
 </div>
 
-Studying abroad should be exciting, not overwhelming.
+Studying abroad is a big move. Keeping track of it all is a full-time side quest.
 
-Anchora is an **AI-native study-abroad platform** built for students in India who want to pursue higher education in Germany independently.
+**Anchora is an AI-native platform for studying abroad**, bringing your shortlist, documents, applications, and next steps together—with an AI guide that understands what you're working toward.
 
-Instead of juggling university websites, spreadsheets, deadlines, documents, and endless advice, Anchora brings everything together into one intelligent, personalized experience.
-
-And at the heart of it all is **Atlas**, your AI companion.
+We're starting with students applying to Germany, with more destinations to follow.
 
 ### Meet Atlas
 
-Atlas isn't just a chatbot. It's the intelligence behind your entire study-abroad journey.
+**Atlas is your AI guide inside Anchora.** It works with your profile, plans, and progress, so you can pick up where you left off without explaining everything again.
 
-Built to understand your profile, goals, preferences, and progress, Atlas helps you navigate the process from your first university search to your final preparations.
+- **Answers you can check.** Guidance backed by official sources, with citations you can follow.
+- **Context that carries over.** Your goals, preferences, shortlist, and progress inform the conversation.
+- **A clearer next step.** See what needs attention, what's coming up, and what's blocking you.
+- **Help getting things done.** Build plans, organize tasks, and keep your progress up to date through conversation.
+- **You're in control.** Review and approve proposed actions before Atlas makes changes.
 
-- **Knows your journey.** Understands your goals, target universities, deadlines, and where you currently stand.
-- **Grounded in real information.** Helps you find answers backed by verified university requirements and official sources.
-- **Thinks ahead.** Identifies upcoming tasks, potential blockers, and what deserves your attention next.
-- **Turns conversations into action.** Helps you plan, organize, and update your journey rather than just answering questions.
-- **Keeps you in control.** Suggests actions and changes for your approval, so you're always the one making the decisions.
+### Everything stays connected
 
-### More than a conversation
+A useful conversation should carry through to the work that follows.
 
-AI is at the center, but Anchora gives it the tools and context to be genuinely useful.
+- **Your plan** — steps shaped around your profile, target intake, and progress.
+- **Your shortlist** — explore programmes, check requirements, and keep your options together.
+- **Your applications** — track deadlines, outstanding tasks, and where each application stands.
+- **Your documents** — keep important files and their versions organized.
+- **Your context** — Atlas works with the same information you see across the platform.
 
-- **Personalized journeys** — structured roadmaps that adapt to your goals, intake, and progress.
-- **University discovery** — explore programs and understand requirements using verified information.
-- **Application planning** — track tasks, deadlines, milestones, and blockers.
-- **Document management** — securely organize important documents and their versions.
-- **A connected experience** — your plans, documents, and conversations working together.
-
-One platform. One journey. A companion that understands both.
+Less time piecing things together. More time moving forward.
 
 ### Where we are
 
-We're building Anchora alongside our first students, learning from real experiences, and improving the platform as we go.
+We're in **closed beta**, working with our first students and improving Anchora through their feedback.
 
-Currently in early pilot, with access opening through our waitlist.
+**1,000+ people have already joined the waitlist.** We're inviting students in small batches as we open up access.
 
 **[Join the waitlist →](https://tryanchora.com/#join)**
 
@@ -65,17 +60,17 @@ Currently in early pilot, with access opening through our waitlist.
 
 | Repository | What's inside |
 |---|---|
-| [docs](https://github.com/tryanchora/docs) | The source for our public help center, including guides and troubleshooting. |
-| [design-system](https://github.com/tryanchora/design-system) | Our design spec, Tailwind v4 tokens and React components. |
+| [docs](https://github.com/tryanchora/docs) | Guides, FAQs, and troubleshooting for our public help center. |
+| [design-system](https://github.com/tryanchora/design-system) | Our design spec, Tailwind v4 tokens, and React components. |
 
-Our core product is private for now. We'll share more as we build.
+The core product is private for now. These repositories share some of what goes into building it.
 
 ### Say hello
 
-Have an idea, feedback, or just want to talk about what we're building? We'd love to hear from you.
+Questions, feedback, or something you think we should build? We'd like to hear it.
 
 [Website](https://tryanchora.com) · [Help Center](https://docs.tryanchora.com) · [Email](mailto:hello@tryanchora.com)
 
 ---
 
-*Built with care, for students building their future.*
+*Built by people who care about getting this right.*
